@@ -1,6 +1,6 @@
 spring:
   application:
-    name: MySpringBoot2Dbase
+    name: MySpringBootdbase
   datasource:
     url: jdbc:h2:/home/dmitry/projects/java/MySpringBoot2Dbase/testdb/students
   jpa:
@@ -11,4 +11,4 @@ spring:
       enabled: true
 
 server:
-  port:  8082
+  port: 8082
